@@ -1,0 +1,6 @@
+{
+  "name": "Prompt.it",
+  "description": "An advanced full-stack prompt engineering and optimization workbench. Generate hyper-realistic image prompts, structured reasoning templates, robust code instructions, clean version histories, and perform duplicate/redundancy detection and sandbox tests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
